@@ -1,2 +1,2 @@
 # hello
-回家的方式
+The first time to use github
